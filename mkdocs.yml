@@ -51,7 +51,7 @@ plugins:
       lang: en
   - mkdocstrings:
       watch:
-        - solvis-store
+        - solvis_store
 extra:
   social:
     - icon: fontawesome/brands/twitter
